@@ -1,0 +1,11 @@
+C:\Users\Ali\Desktop\DanfoshAppClone\DanfoshApp1.0.exe
+C:\Users\Ali\Desktop\DanfoshAppClone\DanfoshApp1.0.pdb
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp.csproj.AssemblyReference.cache
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp.DanfoshForm.resources
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp.Properties.Resources.resources
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp.csproj.GenerateResource.cache
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp.csproj.CoreCompileInputs.cache
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp1.0.exe
+D:\C#Projects\DanfoshApp\obj\Debug\DanfoshApp1.0.pdb
+D:\C#Projects\DanfoshApp\bin\Debug\DanfoshApp1.0.exe
+D:\C#Projects\DanfoshApp\bin\Debug\DanfoshApp1.0.pdb
